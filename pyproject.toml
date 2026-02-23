@@ -1,7 +1,7 @@
 [project]
 name = "coding-dataset-preprocess"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python package for preprocessing coding datasets"
 readme = "README.md"
 authors = [
     { name = "copilot-swe-agent[bot]", email = "198982749+Copilot@users.noreply.github.com" }
